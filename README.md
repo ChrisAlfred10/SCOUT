@@ -35,10 +35,15 @@ Search results may be incomplete, outdated, misleading, or refer to a different 
 ## Technology
 
 Python 3 – Core programming language.
+
 DDGS – Public web search.
+
 Requests – HTTP communication.
+
 BeautifulSoup 4 – HTML parsing and extraction.
+
 Rich – CLI interface and terminal formatting.
+
 JSON – Investigation report generation.
 
 ---
