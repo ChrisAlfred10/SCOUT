@@ -34,11 +34,12 @@ Search results may be incomplete, outdated, misleading, or refer to a different 
 
 ## Technology
 
-- Python
-- [DuckDuckGo Search (`ddgs`)](https://pypi.org/project/ddgs/)
-- [Requests](https://requests.readthedocs.io/)
-- [Beautiful Soup 4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-- [Rich](https://rich.readthedocs.io/)
+Python 3 – Core programming language.
+DDGS – Public web search.
+Requests – HTTP communication.
+BeautifulSoup 4 – HTML parsing and extraction.
+Rich – CLI interface and terminal formatting.
+JSON – Investigation report generation.
 
 ---
 
